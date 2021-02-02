@@ -361,7 +361,7 @@ Some properties, like `background` and `margin` for example, allow for a variabl
 <table>
   <tr>
     <th>modification</th>
-    <th>availbe units</th>
+    <th>available units</th>
   </tr>
   <tr>
     <td>spacial</td>
